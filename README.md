@@ -1,4 +1,5 @@
-# AZ-Hack-Day
+# Parking Spotter
+## AZ-Hack-Day
 
 This repository contains:
 - Python prototype
